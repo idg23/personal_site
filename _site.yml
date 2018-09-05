@@ -1,7 +1,7 @@
-name: "Ishans-website"
+name: "Ishan D. Ghosh"
 output_dir: "."
 navbar:
-  title: "Ishans Website"
+  title: "Ishan D. Ghosh"
   left:
     - text: "Home"
       href: index.html
@@ -11,5 +11,5 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: flatly
+    theme: paper
     css: style.css
