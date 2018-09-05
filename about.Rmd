@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-I am a PhD candidate of Economics at Drexel University. I work at the intersection of International Trade and Industrial Organization.
+I am a PhD candidate of Economics at Drexel University. I work at the intersection of International Trade and Industrial Organization. More specifically, I look at how firms's offshoring decisions have an impact on their R&D investment choices. 
