@@ -1,9 +1,14 @@
 name: "Ishans-website"
 output_dir: "."
 navbar:
-  title: "Ishans Website"
+  title: "Nicks Website"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
+    
