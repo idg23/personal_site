@@ -5,7 +5,12 @@
 
 <img src="me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-Hi! I am a PhD candidate of Economics at the [School of Economics, Drexel University, LeBow College of Business](https://www.lebow.drexel.edu/faculty-and-research/disciplines/economics). I work at the intersection of International Trade and Industrial Organization. More specifically, I look at how firms's offshoring decisions have an impact on their R&D investment choices.
+Hi! I am a PhD candidate of Economics at the [School of Economics, Drexel University, LeBow College of Business](https://www.lebow.drexel.edu/faculty-and-research/disciplines/economics). My research lies at the intersection of International Trade and Industrial Organization. I use confidential US microdata at the Census Research Data centers to understand how firms's offshoring decisions have an impact on their R&D investment choices, patenting and employment growth.
+
+Prior to joining Drexel University, I gradauated from [The State University of New York (SUNY)](https://arts-sciences.buffalo.edu/economics.html) at Buffalo with a MS in Economics (specialization: International Trade).
+
+
+
 
 
 
