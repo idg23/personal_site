@@ -5,7 +5,7 @@
 
 <img src="me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-Hi! I am a PhD candidate of Economics at the [School of Economics, Drexel University, LeBow College of Business](https://www.lebow.drexel.edu/faculty-and-research/disciplines/economics). My research lies at the intersection of International Trade and Industrial Organization. I use confidential US microdata at the Census Research Data centers to understand how firms's offshoring decisions have an impact on their R&D investment choices, patenting and employment growth.
+Hi! I am a PhD candidate of Economics at the [School of Economics, Drexel University, LeBow College of Business](https://www.lebow.drexel.edu/faculty-and-research/disciplines/economics). My research lies at the intersection of International Trade and Industrial Organization. I use confidential US microdata at the Census Research Data centers to understand how firms' offshoring decisions have an impact on their R&D investment choices, patenting and employment growth.
 
 [Here](https://www.lebow.drexel.edu/academics/doctorate/research/research-conversation-economics-phd-candidate-ishan-ghosh) I talk about my research agenda.
 
