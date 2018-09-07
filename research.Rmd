@@ -1,0 +1,22 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+My broad research agenda lies at the intersection of International Trade and Industrial Organization. More specifically, I am particularly interested in how firms' decision to fragment production globally has an effect on their R&D choices and how that ultimately affects productivity. Exploring other innovation outcomes, I am also interested in how firms react to opposing forces of trade in the form of import competition and cheaper sourcing of intermediates by patenting and undertaking product/process innovation. I study these research questions empirically using both reduced form and theory backed structural estimation techniques. 
+
+### Work In Progress
+
+The below working papers represent my work to date on the topic of trade, innovation and labor market outcomes:
+
+**Ghosh, I**. (2018). Productive Offshoring: Evidence from Spain (New version coming soon)
+
+**Ghosh, I.**, M.Larch, I.Murtazashvili and Y.V. Yotov. Gender Inequality in the Aftermath of Negative Trade Shocks: Evidence from U.S. Under Review (New version coming soon)
+
+**Ghosh, I**. (2018). Offshoring, R&D and Productivity: Evidence from US Microdata (JMP) (New version coming soon)
+
+**Ghosh, I**. (2018). Dynamic Effect of Importing in China: Ordinary vs Processing Importers (New version coming soon)
