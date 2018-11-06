@@ -6,3 +6,6 @@ setwd("/Users/Ishan/personal_cite/personal_site")
 
 #render your sweet site. 
 rmarkdown::render_site()
+
+
+
