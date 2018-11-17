@@ -20,5 +20,6 @@ navbar:
       href: https://www.linkedin.com/in/ishan-ghosh-26005063/
 output:
   html_document:
-    theme: paper
+    theme: journal
+    highlight: textmate
     css: style.css
