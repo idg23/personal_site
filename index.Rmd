@@ -3,15 +3,12 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="me.jpg" style="width:25%; border:03px solid; margin-right: 20px" align="left">
+<img src="Adeliada.jpg" style="width:25%; border:03px solid; margin-right: 20px" align="left">
 
 Welcome to my website! 
 
-I am a PhD candidate of Economics at the [School of Economics, Drexel University, LeBow College of Business](https://www.lebow.drexel.edu/faculty-and-research/disciplines/economics). My research lies at the intersection of International Trade and Industrial Organization. I use confidential US microdata at the Census Research Data centers to understand how firms' offshoring decisions have an impact on their R&D investment choices, patenting and employment growth.
-
-Prior to joining Drexel University, I gradauated from [The State University of New York (SUNY) at Buffalo](https://arts-sciences.buffalo.edu/economics.html) with a MS in Economics (specialization: International Trade).
+I am a PhD candidate of Economics at the [School of Economics, Drexel University, LeBow College of Business](https://www.lebow.drexel.edu/faculty-and-research/disciplines/economics). 
 
 My full CV is available [here](files/CV.pdf).
 
-[Here](files/Resume.pdf) is my Resume.
 
